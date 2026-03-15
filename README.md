@@ -1,2 +1,1 @@
-# ejercico-1
-pagina web
+# Proyecto Semántico Organizado
